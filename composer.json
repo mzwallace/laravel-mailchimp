@@ -1,5 +1,5 @@
 {
-    "name": "hugofirth/mailchimp",
+    "name": "mzwallace/laravel-mailchimp",
     "description": "Wrapper on the MCAPI class provided by Mailchimp - with support for Laravel 4",
     "keywords": ["laravel", "mailchimp"],
     "authors": [
